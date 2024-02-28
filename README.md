@@ -1,7 +1,7 @@
 # Championship Challenge
 
 ## Description
-Championship Challenge is a coding challenge designed to allow a developer freedom to fulfill the challenge requirements according to their skillset. As we all know, there are practically infinite ways to solve any programming problem. In this case, this will allow us to collaborate and evaluate the level of understanding a developer has for their own solution.
+Championship Challenge is a coding challenge designed to allow developers the freedom to fulfill the challenge requirements according to their skill set. As we all know, there are practically infinite ways to solve any programming problem. In this case, this will allow us to collaborate and evaluate the level of understanding a developer has for their solution.
 
 ## Requirements
 - Read in data from the file 'Matches.txt'
@@ -19,7 +19,7 @@ Bears - # points
 ````
 
 
-## Scoring
+## Scoring Rules
 - If a team wins a match, they are granted 3 points
 - If a team loses a match, they are granted 0 points
 - If the teams tie, each team is granted 1 point
