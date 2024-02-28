@@ -1,0 +1,7 @@
+﻿Lions 17,Bears 1
+Dogs 0,Cats 33
+Cats 10,Bears 10
+Lizards 19,Bears 12
+Lizards 12,Cats 1
+Lions 34,Lizards 22
+Dogs 12,Lions 30
